@@ -1,2 +1,6 @@
 node_modules
 *.dat
+ninja-zigbee.log
+.idea/jsLibraryMappings.xml
+.idea/ollo-zigbee.iml
+.idea/libraries/ollo_zigbee_node_modules.xml
